@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+
+
+
+
+body {
+    background-color: #f5ebdc;
+    height: 150VH;
+}  
+
+#sidebar {
+    position: fixed;
+}
+
+header {
+    height: 16.5VH;
+}
+#topnav {
+    background-color: #ce3800;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    color: #f5ebdc;
+    top: 16.5VH;
+    width: 90px;
+    height: 80VH;
+    position: fixed;
+    left: 0px;
+   
+   
+}
+#Games{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    color:  #f5ebdc;
+    
+    Font-size: 25px;
+    padding-right: 15px;
+}
+#News{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    
+    background-color:  #f5ebdc;
+    color: #ce3800;
+}
+#route {
+height: 150px;
+}
+
+
+#bottomnav {
+    background-color: #158fcf;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #2e382f;
+    width: 90px;
+    height: 16.5VH;
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+}
+
+
+
+
+h1 {
+    color:  #158fcf;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

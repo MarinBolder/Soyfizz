@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+
+
+
+
+body {
+    background-color: #f5ebdc;
+    height: 150VH;
+}  
+
+#sidebar {
+    position: fixed;
+}
+
+header {
+    height: 16.5VH;
+}
+#topnav {
+    background-color: #ce3800;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    color: #f5ebdc;
+    top: 16.5VH;
+    width: 90px;
+    height: 80VH;
+    position: fixed;
+    left: 0px;
+   
+   
+}
+#Games{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    color:#ce3800;
+    background-color:  #f5ebdc;
+}
+#News{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    
+    color:  #f5ebdc;
+    Font-size: 25px;
+}
+#route {
+height: 150px;
+}
+
+
+#bottomnav {
+    background-color: #158fcf;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #2e382f;
+    width: 90px;
+    height: 16.5VH;
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+}
+
+#item1 {
+position: relative;
+left: 500px;
+top: 200px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: #2e382f;
+font-size: 50px;
+}
+
+#item2 {
+position: relative;
+left: 925px;
+top: 183px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: #2e382f;
+font-size: 20px;
+}
+
+#item3 {
+position: relative;
+left: 1350px;
+top: 168px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: #2e382f;
+font-size: 20px;
+}    
+
+#Sink {
+    position: relative;
+    left: 365px;
+    top: 200px;
+    }
+    
+#Flounder {
+    position: relative;
+    left: 620px;
+    top: 198px;
+    }
+    
+#Rat {
+    position: relative;
+    left: 795px;
+    top: 195px;
+    }   
+
+
+#SinkbomberText{
+position: relative;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: #2e382f;
+top: 250px;
+left: 250px;
+}
+
+
+h1 {
+    color:  #158fcf;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
